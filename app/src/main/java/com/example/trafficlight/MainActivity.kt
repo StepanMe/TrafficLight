@@ -12,7 +12,6 @@ class MainActivity: AppCompatActivity() {
     var greenLight: Button? = null
     var startButton: Button? = null
 
-    var inAction: Boolean = false
     var lightStep: Int = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
